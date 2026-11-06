@@ -1,0 +1,8 @@
+{
+  "appId": "com.dailycheckin.calendar",
+  "appName": "每日打卡日历",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}
